@@ -1,6 +1,6 @@
 package com.timbuchalka
 
-import java.util.HashMap
+/*import java.util.HashMap
 
 
 class Location(val locationID: Int, val description: String) {
@@ -18,4 +18,4 @@ class Location(val locationID: Int, val description: String) {
     protected fun addExit(direction: String, location: Int) {
         exits.put(direction, location)
     }
-}
+}*/
