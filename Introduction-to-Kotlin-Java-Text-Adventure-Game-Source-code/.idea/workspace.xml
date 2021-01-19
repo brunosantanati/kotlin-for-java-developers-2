@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dcacf83-2ae4-4e5c-bdbb-b509c9803b11" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Kotlin-Text-Adventure-Game-Source-code/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/timbuchalka/KotlinLocation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timbuchalka/KotlinLocation.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Introduction-to-Kotlin-Kotlin-Text-Adventure-Game-Source-code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Kotlin-Text-Adventure-Game-Source-code/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

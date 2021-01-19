@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4f12ee3-d8b2-4601-aea8-eb83b84bb028" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/src/com/timbuchalka/KotlinLocation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Introduction-to-Kotlin-Java-Text-Adventure-Game-Source-code/src/com/timbuchalka/KotlinLocation.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +152,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Basic-Differences-Between-Kotlin-and-Java-Hello-World-in-Kotlin-Source-code" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -402,6 +399,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
