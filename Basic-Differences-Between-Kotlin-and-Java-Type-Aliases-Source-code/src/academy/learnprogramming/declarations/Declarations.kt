@@ -1,6 +1,6 @@
 package academy.learnprogramming.declarations
 
-typealias EmployeeSet = Set<Employee>
+typealias EmployeeSet = MutableSet<Employee>
 
 fun main(args: Array<String>)  {
 
@@ -8,7 +8,7 @@ fun main(args: Array<String>)  {
     number = 10;
     number = 20
 
-    val employees: EmployeeSet
+    val employees: EmployeeSet = mutableSetOf()
 
     val employee1 = Employee("Lynn Jones", 500)
     employee1.name = "Lynn Smith"
@@ -22,9 +22,14 @@ fun main(args: Array<String>)  {
     else {
         employee2 = Employee("Mike Watson", 150)
     }
+
+    employees.add(employee1)
+    employees.add(employee2)
+
+    println(employees)
 }
 
-class Employee(var name: String, val id : Int) {
+data class Employee(var name: String, val id : Int) {
 
 }
 
